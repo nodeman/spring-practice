@@ -1,7 +1,6 @@
-package com.teamsoft.javaoop.service;
+package com.teamsoft.springpractice.service;
 
-import com.teamsoft.javaoop.logic.BubbleSort;
-import com.teamsoft.javaoop.logic.JavaSort;
+import com.teamsoft.springpractice.logic.JavaSort;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

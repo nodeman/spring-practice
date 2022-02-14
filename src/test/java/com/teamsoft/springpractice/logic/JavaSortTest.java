@@ -1,6 +1,5 @@
-package com.teamsoft.javaoop.logic;
+package com.teamsoft.springpractice.logic;
 
-import com.sun.jdi.IntegerType;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

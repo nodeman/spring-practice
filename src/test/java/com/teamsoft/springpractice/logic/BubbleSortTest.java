@@ -1,4 +1,4 @@
-package com.teamsoft.javaoop.logic;
+package com.teamsoft.springpractice.logic;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

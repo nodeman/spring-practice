@@ -1,8 +1,11 @@
-package com.teamsoft.javaoop.logic;
+package com.teamsoft.springpractice.logic;
+
+import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
 import java.util.List;
 
+@Component
 public class BubbleSort<T extends Comparable<T>> implements Sort<T>{
 
     @Override

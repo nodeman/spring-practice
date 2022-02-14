@@ -1,4 +1,4 @@
-package com.teamsoft.javaoop.logic;
+package com.teamsoft.springpractice.logic;
 
 import java.util.List;
 
